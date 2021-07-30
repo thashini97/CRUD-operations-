@@ -4,6 +4,7 @@
  $root = 'root';
  $password = 'password';
  $database = 'mobile_computing';
+
  
 // Create connection
 $connect = mysqli_connect($host, $root, $password, $database);
